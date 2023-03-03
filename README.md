@@ -1,12 +1,12 @@
-# asd
+# README Generator
   
-![Badge](https://img.shields.io/badge/License-MIT-blue.svg)
 
-asd
+
+dylancaff
 
 ## Description 
 
-asd
+this project is for people who need to generate a professional readme file easier than mannually making one
 
 ## Table of Contents 
 
@@ -14,7 +14,7 @@ asd
 
 - [Usage](#info-)
 
-- [License](#license-📝)
+
 
 - [Test](#tests-)
 
@@ -23,37 +23,36 @@ asd
 ## Installation 
 
 
-asd
+npm i
 
 
 ## Usage 
 
 
-asd
+it generates README files
 
 
-## License 📝
-    This application is covered by the MIT license.
+
 
 
 ## Tests 
 
 
-asd
+npm run
 
 
 ## Credits 
 
 
-asd
+That their input it put into the readme file
 
 
 ## Questions 
 
 
-If there are any questions, feel free to contact my email at: asd
+If there are any questions, feel free to contact my email at: dylancaff0902@gmail.com
 
 
-You can also find me on GitHub at: [asd](https://www.github.com/asd)
+You can also find me on GitHub at: [dylancaff](https://www.github.com/dylancaff)
 
  
