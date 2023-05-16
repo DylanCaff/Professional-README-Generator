@@ -1,12 +1,12 @@
-# README Generator
+# Text Editor
   
-
+![Badge](https://img.shields.io/badge/License-MIT-blue.svg)
 
 dylancaff
 
 ## Description 
 
-this project is for people who need to generate a professional readme file easier than mannually making one
+
 
 ## Table of Contents 
 
@@ -14,7 +14,7 @@ this project is for people who need to generate a professional readme file easie
 
 - [Usage](#info-)
 
-
+- [License](#license-📝)
 
 - [Test](#tests-)
 
@@ -23,28 +23,29 @@ this project is for people who need to generate a professional readme file easie
 ## Installation 
 
 
-npm i
+npm run build
 
 
 ## Usage 
 
 
-it generates README files
 
 
 
+## License 📝
+This application is covered by the MIT license.
 
 
 ## Tests 
 
 
-npm run
+no tests
 
 
 ## Credits 
 
 
-That their input it put into the readme file
+Dylan Cafferatta
 
 
 ## Questions 
